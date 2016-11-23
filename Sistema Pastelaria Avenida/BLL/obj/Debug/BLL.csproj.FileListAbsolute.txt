@@ -1,0 +1,9 @@
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\BLL\bin\Debug\BLL.dll
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\BLL\bin\Debug\BLL.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\BLL\bin\Debug\DAL.dll
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\BLL\bin\Debug\ModeloBancoDeDados.dll
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\BLL\bin\Debug\DAL.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\BLL\bin\Debug\ModeloBancoDeDados.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\BLL\obj\Debug\BLL.dll
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\BLL\obj\Debug\BLL.pdb

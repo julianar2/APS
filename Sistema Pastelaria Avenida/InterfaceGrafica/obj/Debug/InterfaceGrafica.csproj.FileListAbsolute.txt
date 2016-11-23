@@ -1,0 +1,19 @@
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\InterfaceGrafica\bin\Debug\InterfaceGrafica.exe.config
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\InterfaceGrafica\bin\Debug\InterfaceGrafica.exe
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\InterfaceGrafica\bin\Debug\InterfaceGrafica.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\InterfaceGrafica\bin\Debug\BLL.dll
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\InterfaceGrafica\bin\Debug\DAL.dll
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\InterfaceGrafica\bin\Debug\ModeloBancoDeDados.dll
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\InterfaceGrafica\bin\Debug\BLL.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\InterfaceGrafica\bin\Debug\DAL.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\InterfaceGrafica\bin\Debug\ModeloBancoDeDados.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\InterfaceGrafica\obj\Debug\InterfaceGrafica.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\InterfaceGrafica\obj\Debug\InterfaceGrafica.Form1.resources
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\InterfaceGrafica\obj\Debug\InterfaceGrafica.Properties.Resources.resources
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\InterfaceGrafica\obj\Debug\InterfaceGrafica.csproj.GenerateResource.Cache
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\InterfaceGrafica\obj\Debug\InterfaceGrafica.exe
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\InterfaceGrafica\obj\Debug\InterfaceGrafica.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\InterfaceGrafica\obj\Debug\InterfaceGrafica.FrmModeloDeCadastro.resources
+C:\Users\Vinicius\Source\Repos\APS\Sistema Pastelaria Avenida\InterfaceGrafica\bin\Debug\InterfaceGrafica.exe.config
+C:\Users\Vinicius\Source\Repos\APS\Sistema Pastelaria Avenida\InterfaceGrafica\obj\Debug\InterfaceGrafica.exe
+C:\Users\Vinicius\Source\Repos\APS\Sistema Pastelaria Avenida\InterfaceGrafica\obj\Debug\InterfaceGrafica.pdb

@@ -1,0 +1,4 @@
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\ModeloBancoDeDados\bin\Release\ModeloBancoDeDados.dll
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\ModeloBancoDeDados\bin\Release\ModeloBancoDeDados.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\ModeloBancoDeDados\obj\Release\ModeloBancoDeDados.dll
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\ModeloBancoDeDados\obj\Release\ModeloBancoDeDados.pdb

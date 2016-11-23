@@ -1,0 +1,11 @@
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\DAL\bin\Debug\DAL.dll
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\DAL\bin\Debug\DAL.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\DAL\bin\Debug\ModeloBancoDeDados.dll
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\DAL\bin\Debug\MySql.Data.dll
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\DAL\bin\Debug\ModeloBancoDeDados.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\DAL\bin\Debug\MySql.Data.xml
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\DAL\obj\Debug\DAL.dll
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\DAL\obj\Debug\DAL.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\Vinicius\Documents\Visual Studio 2015\Projects\Sistema Pastelaria Avenida\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
